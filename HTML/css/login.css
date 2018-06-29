@@ -1,0 +1,26 @@
+body{
+	background-color: rgb(180, 180, 130);
+}
+
+input[type=submit],input[type=button] {
+    background-color: rgb(150,10,2);
+    border: none;
+    color: white;
+    padding: 6px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+select  {
+    outline: 0;
+    overflow: hidden;
+    height: 30px;
+    background: rgb(150,10,2);
+    color: white;
+    border: black;
+    padding: 5px 3px 5px 10px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 10px;
+}
+rgb(168, 170, 150);
